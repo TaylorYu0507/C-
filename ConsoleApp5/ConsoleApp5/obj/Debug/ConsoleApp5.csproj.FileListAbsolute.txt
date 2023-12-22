@@ -1,0 +1,15 @@
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\iSpan\Documents\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+G:\我的雲端硬碟\全端\hanna\C#程式語言\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
